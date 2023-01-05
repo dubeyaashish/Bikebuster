@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "build": "babel src --out-dir dist"
+    }
+  }
+  
